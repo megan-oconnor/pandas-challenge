@@ -38,6 +38,6 @@ Lastly, we looked at the scores and pass rates by school types. We found that ch
 
 
 ## Resources
-Code File: [main.ipynb](https://github.com/megan-oconnor/pandas-challenge/blob/main/PyCitySchools/main.ipynb) contains analysis of the dataset, contained in the [PyCitySchools](https://github.com/megan-oconnor/pandas-challenge/tree/main/PyCitySchools) folder
-Datasets: 2 datasets for school data and student data, both in the [Resources](https://github.com/megan-oconnor/pandas-challenge/tree/main/PyCitySchools/Resources) folder
-Images: contain screenshots of the datatables from the analysis, all located in the [Images](https://github.com/megan-oconnor/pandas-challenge/tree/main/Images) folder
+- **Code File**: [main.ipynb](https://github.com/megan-oconnor/pandas-challenge/blob/main/PyCitySchools/main.ipynb) contains analysis of the dataset, contained in the [PyCitySchools](https://github.com/megan-oconnor/pandas-challenge/tree/main/PyCitySchools) folder
+- **Datasets**: 2 datasets for school data and student data, both in the [Resources](https://github.com/megan-oconnor/pandas-challenge/tree/main/PyCitySchools/Resources) folder
+- **Images**: contain screenshots of the datatables from the analysis, all located in the [Images](https://github.com/megan-oconnor/pandas-challenge/tree/main/Images) folder
