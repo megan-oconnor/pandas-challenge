@@ -25,6 +25,7 @@ The highest performing schools were charter schools, while the lowest performing
 - The lowest performing school is Rodrigues High School where just under 53% of the students are passing.
 
 When looking at the scores for both math and reading by school and grade level, scores generally look consistent at the schools. This means no one grade level at a school is doing significantly better than the other grades; if the test scores in 9th grade are 81, then the scores for 10th, 11th, and 12th grade are approximately 81 as well.
+![avg scores by budget table](https://github.com/megan-oconnor/pandas-challenge/assets/147878655/ed24a6b5-eb9a-4efb-926e-9756f741d475)
 
 We also created spending ranges for the per student budget and looked at the average test scores and pass rates for these ranges. We found that schools with larger per student budgets had lower scores and pass rates.
 ![avg scores by budget table](https://github.com/megan-oconnor/pandas-challenge/assets/147878655/5568299e-b4bc-4e7c-8627-70fcd586b101)
